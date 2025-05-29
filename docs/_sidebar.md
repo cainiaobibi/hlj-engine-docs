@@ -1,7 +1,7 @@
 <!-- markdownlint-disable first-line-h1 -->
 - 入门
 
-    - [鉴权](入门/鉴权)
+    - [鉴权](入门/鉴权.md)
     - [回调](入门/回调.md)
     - [异常](入门/异常.md)
   

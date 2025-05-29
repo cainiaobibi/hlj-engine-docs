@@ -1,0 +1,5 @@
+/* 调整 logo 的宽度和高度 */
+.app-name img {
+    width: 100px; /* 设置 logo 的宽度 */
+    height: auto; /* 保持 logo 的纵横比 */
+}
